@@ -20,7 +20,7 @@
 category: common
 depends:
 - gnuradio
-description: GNU Radio Radar Toolbox
+description: GNU Radio Radar Toolbox development
 gitbranch: master
 inherit: cmake
-source: git+https://github.com/kit-cel/gr-radar.git
+source: git+https://github.com/Audioholic11/gr-radar-dev
