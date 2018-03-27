@@ -20,6 +20,9 @@
 category: common
 depends:
 - gnuradio
+- soapysdr
+- uhd
+- boost
 description: GNU Radio Radar Toolbox development
 gitbranch: master
 inherit: cmake
