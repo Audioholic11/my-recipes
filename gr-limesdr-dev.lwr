@@ -20,7 +20,7 @@
 category: hardware
 depends:
 - gnuradio
-- limesuite
+- limesuite-dev
 description: GNU Radio source and sink blocks for LimeSDR hardware
 gitbranch: master
 inherit: cmake
