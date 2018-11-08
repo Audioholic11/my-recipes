@@ -19,7 +19,7 @@
 
 category: common
 depends:
-- gnuradio
+- gnuradio-mydev
 - soapysdr
 - uhd
 - boost
